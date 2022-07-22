@@ -9,9 +9,13 @@
 
 ## Start App
 
+index.js is an executable script, simply run the following command
+
 ```bash
     ./index.js
 ```
+
+Now open your browser to `http://localhost`
 
 ## Run as a service on linux
 
